@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "352392858889",
+    "firebase_url": "https://aquarius-866e2-default-rtdb.firebaseio.com",
+    "project_id": "aquarius-866e2",
+    "storage_bucket": "aquarius-866e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352392858889:android:f1231d9cd4ab2675e857d8",
+        "android_client_info": {
+          "package_name": "com.example.aquarius"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuDEx6mwe_aOPLJ3WIumuMKsh7srAEP6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352392858889:android:0b6e694ecf316cbae857d8",
+        "android_client_info": {
+          "package_name": "com.example.customer_loyalty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuDEx6mwe_aOPLJ3WIumuMKsh7srAEP6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352392858889:android:c0070e4bcf903d84e857d8",
+        "android_client_info": {
+          "package_name": "com.example.customer_loyalty_merchant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuDEx6mwe_aOPLJ3WIumuMKsh7srAEP6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
