@@ -1506,21 +1506,11 @@ class WebScreenState extends State<WebScreen> with TickerProviderStateMixin {
                     runSpacing: isMobile ? 12 : 20,
                     alignment: WrapAlignment.center,
                     children: [
-                      ButtonWidget(
-                        label: 'Get the Merchant App',
-                        onPressed: () {},
-                        width: isMobile ? 200 : 250,
-                        height: isMobile ? 50 : 65,
-                        fontSize: isMobile ? 16 : 18,
-                        color: sunshineYellow,
-                        textColor: textBlack,
-                        radius: 35,
-                      ),
                       TouchableWidget(
                         onTap: () {},
                         child: Container(
                           padding: EdgeInsets.symmetric(
-                            horizontal: isMobile ? 24 : 35,
+                            horizontal: 75,
                             vertical: isMobile ? 12 : 20,
                           ),
                           decoration: BoxDecoration(
