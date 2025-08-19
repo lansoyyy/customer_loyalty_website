@@ -127,7 +127,7 @@ class WebScreenState extends State<WebScreen> with TickerProviderStateMixin {
                   ),
                   const SizedBox(width: 10),
                   TextWidget(
-                    text: 'LoyalLoop',
+                    text: 'SukiSaya',
                     fontSize: isMobile ? 18 : 22,
                     fontFamily: 'Bold',
                     color: textBlack,
@@ -327,7 +327,7 @@ class WebScreenState extends State<WebScreen> with TickerProviderStateMixin {
                   child: Column(
                     children: [
                       TextWidget(
-                        text: 'Why LoyalLoop Stands Out',
+                        text: 'Why SukiSaya Stands Out',
                         fontSize: isMobile ? 28 : 44,
                         fontFamily: 'Bold',
                         color: textBlack,
@@ -464,7 +464,7 @@ class WebScreenState extends State<WebScreen> with TickerProviderStateMixin {
                   child: Column(
                     children: [
                       TextWidget(
-                        text: 'Why Choose LoyalLoop?',
+                        text: 'Why Choose SukiSaya?',
                         fontSize: isMobile ? 28 : 44,
                         fontFamily: 'Bold',
                         color: textBlack,
@@ -996,7 +996,7 @@ class WebScreenState extends State<WebScreen> with TickerProviderStateMixin {
               child: Column(
                 children: [
                   TextWidget(
-                    text: 'How LoyalLoop Operates',
+                    text: 'How SukiSaya Operates',
                     fontSize: isMobile ? 28 : 44,
                     fontFamily: 'Bold',
                     color: textBlack,
@@ -1153,7 +1153,7 @@ class WebScreenState extends State<WebScreen> with TickerProviderStateMixin {
                   child: Column(
                     children: [
                       TextWidget(
-                        text: 'Access LoyalLoop Anywhere',
+                        text: 'Access SukiSaya Anywhere',
                         fontSize: isMobile ? 28 : 44,
                         fontFamily: 'Bold',
                         color: textBlack,
@@ -1320,7 +1320,7 @@ class WebScreenState extends State<WebScreen> with TickerProviderStateMixin {
         name: 'Sarah Johnson',
         company: 'Coffee Corner',
         testimonial:
-            'LoyalLoop tripled our repeat customers, saving us time and boosting profits!',
+            'SukiSaya tripled our repeat customers, saving us time and boosting profits!',
         rating: 5,
         avatar: '👩‍💼',
       ),
@@ -1366,7 +1366,7 @@ class WebScreenState extends State<WebScreen> with TickerProviderStateMixin {
                   const SizedBox(height: 24),
                   TextWidget(
                     text:
-                        'Hear how LoyalLoop empowers businesses and delights customers.',
+                        'Hear how SukiSaya empowers businesses and delights customers.',
                     fontSize: isMobile ? 14 : 20,
                     fontFamily: 'Regular',
                     color: charcoalGray,
@@ -1935,7 +1935,7 @@ class WebScreenState extends State<WebScreen> with TickerProviderStateMixin {
                                           SizedBox(height: 10),
                                           TextWidget(
                                             text:
-                                                'Reach out to start building loyalty with LoyalLoop or to learn more about our platform.',
+                                                'Reach out to start building loyalty with SukiSaya or to learn more about our platform.',
                                             fontSize: 14,
                                             fontFamily: 'Regular',
                                             color: charcoalGray,
@@ -2004,7 +2004,7 @@ class WebScreenState extends State<WebScreen> with TickerProviderStateMixin {
                                             SizedBox(height: 16),
                                             TextWidget(
                                               text:
-                                                  'Reach out to start building loyalty with LoyalLoop or to learn more about our platform.',
+                                                  'Reach out to start building loyalty with SukiSaya or to learn more about our platform.',
                                               fontSize: 18,
                                               fontFamily: 'Regular',
                                               color: charcoalGray,
@@ -2144,7 +2144,7 @@ class WebScreenState extends State<WebScreen> with TickerProviderStateMixin {
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                   TextWidget(
-                    text: 'LoyalLoop by Algo Vision',
+                    text: 'SukiSaya by Algo Vision',
                     fontSize: isMobile ? 18 : 22,
                     fontFamily: 'Bold',
                     color: plainWhite,
